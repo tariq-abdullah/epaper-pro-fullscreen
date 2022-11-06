@@ -1,4 +1,5 @@
-<h1>3D FlipBook jQuery plugin</h1>
+<h1>Fullscreen component of E-paper pro </h1>
+<p>3D FlipBook jQuery plugin</p>
 
 <p>
   <a href="http://3dflipbook.net/">3D FlipBook</a> is jQuery plugin that allows to browse images, PDFs or HTMLs as a flipping book.
